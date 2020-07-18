@@ -1,9 +1,9 @@
 ---
+heading: Great coffee with a conscience
+path: /products
 templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-path: /products
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -95,7 +95,7 @@ pricing:
       plan: Custom
       price: ??
     - plan: Premium
-      price: "75"
+      price: "90"
       description: Premium coffee
       items:
         - 3lbs of premium coffee each month
